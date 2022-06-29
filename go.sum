@@ -1,0 +1,4 @@
+github.com/corrupt/go-smbus v0.0.0-20161116095124-d22f26546b05 h1:Ckb292DqV5bYqBJp/Quc+tZNkaqHhtXdUtg4fkE/ags=
+github.com/corrupt/go-smbus v0.0.0-20161116095124-d22f26546b05/go.mod h1:uEv7CjFLJMMPbXylPmgImmFEbutSu5MsgYS1Jt5DG80=
+github.com/go-chi/chi/v5 v5.0.7 h1:rDTPXLDHGATaeHvVlLcR4Qe0zftYethFucbjVQ1PxU8=
+github.com/go-chi/chi/v5 v5.0.7/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
